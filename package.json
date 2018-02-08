@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iedo-rocha/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Iedo Rocha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iedo-rocha/js-tdd/issues"
+  },
+  "homepage": "https://github.com/iedo-rocha/js-tdd#readme"
+}
